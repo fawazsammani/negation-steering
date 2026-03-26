@@ -1,7 +1,7 @@
 # When Negation Is a Geometry Problem in Vision-Language Models  
 **CVPR 2026 (Multimodal Algorithmic Reasoning Workshop)**
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square)](https://arxiv.org/pdf/2603.20554)
+[![arXiv](https://img.shields.io/badge/arXiv-2504.09195-b31b1b.svg)](https://arxiv.org/abs/2603.20554)
 [![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-yellow?style=flat-square)](https://huggingface.co/datasets/mrTzou/N-COCO)
 
 

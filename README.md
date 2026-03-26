@@ -1,8 +1,8 @@
-*When Negation Is a Geometry Problem in Vision-Language Models 
+# When Negation Is a Geometry Problem in Vision-Language Models  
 **CVPR 2026 (Multimodal Algorithmic Reasoning Workshop)**
 
-[[Read the paper]](https://arxiv.org/pdf/2603.20554) 
-[[N-COCO dataset]](https://huggingface.co/datasets/mrTzou/N-COCO)
+[![Paper](https://img.shields.io/badge/Paper-arXiv-b31b1b?style=flat-square)](https://arxiv.org/pdf/2603.20554)
+[![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-yellow?style=flat-square)](https://huggingface.co/datasets/mrTzou/N-COCO)
 
 
 ![Embedding steering demo](EmbeddingSteeringDem.gif)
@@ -84,6 +84,7 @@ You’ll typically see:
 
 ## Citation
 If you find this work useful in your research, please consider citing:
+```bibtex
 @misc{sammani2026negationgeometry,
   title={When Negation Is a Geometry Problem in Vision-Language Models},
   author={Fawaz Sammani and Tzoulio Chamiti and Paul Gavrikov and Nikos Deligiannis},
@@ -92,3 +93,4 @@ If you find this work useful in your research, please consider citing:
   archivePrefix={arXiv},
   primaryClass={cs.CV}
 }
+```

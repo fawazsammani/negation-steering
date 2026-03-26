@@ -1,6 +1,6 @@
 **[When Negation Is a Geometry Problem in Vision-Language Models](https://arxiv.org/pdf/2603.20554)**, CVPR 2026 (Multimodal Algorithmic Reasoning Workshop)
 
-[Paper](https://arxiv.org/pdf/2603.20554) [N-COCO dataset](https://huggingface.co/datasets/mrTzou/N-COCO)
+[[Paper]](https://arxiv.org/pdf/2603.20554) [[N-COCO dataset]](https://huggingface.co/datasets/mrTzou/N-COCO)
 
 ![Embedding steering demo](EmbeddingSteeringDem.gif)
 

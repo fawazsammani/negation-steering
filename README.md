@@ -2,7 +2,7 @@
 **CVPR 2026 (Multimodal Algorithmic Reasoning Workshop)**
 
 [![arXiv](https://img.shields.io/badge/arXiv-2603.20554-b31b1b.svg)](https://arxiv.org/abs/2603.20554)
-[![Dataset](https://img.shields.io/badge/Dataset-Hugging%20Face-yellow?style=flat-square)](https://huggingface.co/datasets/mrTzou/N-COCO)
+[![Dataset](https://img.shields.io/badge/🤗%20Dataset-N--COCO-yellow.svg)](https://huggingface.co/datasets/mrTzou/N-COCO)
 
 
 ![Embedding steering demo](EmbeddingSteeringDem.gif)

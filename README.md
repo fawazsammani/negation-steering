@@ -8,12 +8,6 @@
 - `data/train_data.json`: positive→negative sentence pairs used to train the layerwise steering directions.
 - `data/simpleneg.json`: evaluation benchmark.
 
-## Requirements
-
-- Python 3.10+
-- A CUDA-capable GPU
-	- Note: the script currently sets `device = torch.device('cuda:0')`, so CPU-only runs are not supported as-is.
-
 ## Setup
 
 ### 1) Install Python dependencies

@@ -85,12 +85,12 @@ You’ll typically see:
 ## Citation
 If you find this work useful in your research, please consider citing:
 ```bibtex
-@misc{sammani2026negationgeometry,
-  title={When Negation Is a Geometry Problem in Vision-Language Models},
-  author={Fawaz Sammani and Tzoulio Chamiti and Paul Gavrikov and Nikos Deligiannis},
-  year={2026},
-  eprint={2603.20554},
-  archivePrefix={arXiv},
-  primaryClass={cs.CV}
+@InProceedings{Sammani_2026_CVPR,
+    author    = {Sammani, Fawaz and Chamiti, Tzoulio and Gavrikov, Paul and Deligiannis, Nikos},
+    title     = {When Negation Is a Geometry Problem in Vision Language Models},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2026},
+    pages     = {11553-11562}
 }
 ```
